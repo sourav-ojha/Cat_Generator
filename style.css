@@ -1,0 +1,27 @@
+.container{
+    background-color: skyblue;
+    border: 1px solid green;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.flex-box{
+   background-color: tan;
+    border: 1px solid blue ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.flex-box img{
+    background-color: blueviolet;
+   
+    border:1px solid brown;
+    height: 250px;
+    width: 250px;
+}
+
+
